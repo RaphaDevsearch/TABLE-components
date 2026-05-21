@@ -87,7 +87,14 @@ export const books = [
     author: "Robert C. Martin",
     category: "Programming",
     status: "Available",
-    published: "2008"
+    published: "2008",
+     brand: "Dell",
+  model: "XPS 15",
+  processor: "Intel Core i7",
+  ram: "16GB",
+  storage: "512GB SSD",
+  status: "Available",
+  price: "$1499"
   },
 
   {
@@ -96,7 +103,14 @@ export const books = [
     author: "James Clear",
     category: "Self Development",
     status: "Borrowed",
-    published: "2018"
+    published: "2018",
+     brand: "Dell",
+  model: "XPS 15",
+  processor: "Intel Core i7",
+  ram: "16GB",
+  storage: "512GB SSD",
+  status: "Available",
+  price: "$1499"
   },
 
   {
@@ -105,7 +119,14 @@ export const books = [
     author: "Andrew Hunt",
     category: "Programming",
     status: "Available",
-    published: "1999"
+    published: "1999",
+     brand: "Dell",
+  model: "XPS 15",
+  processor: "Intel Core i7",
+  ram: "16GB",
+  storage: "512GB SSD",
+  status: "Available",
+  price: "$1499"
   },
 
   {
@@ -114,7 +135,14 @@ export const books = [
     author: "Cal Newport",
     category: "Productivity",
     status: "Reserved",
-    published: "2016"
+    published: "2016",
+     brand: "Dell",
+  model: "XPS 15",
+  processor: "Intel Core i7",
+  ram: "16GB",
+  storage: "512GB SSD",
+  status: "Available",
+  price: "$1499"
   },
 
   {
@@ -123,7 +151,14 @@ export const books = [
     author: "Thomas H. Cormen",
     category: "Computer Science",
     status: "Available",
-    published: "2009"
+    published: "2009",
+     brand: "Dell",
+  model: "XPS 15",
+  processor: "Intel Core i7",
+  ram: "16GB",
+  storage: "512GB SSD",
+  status: "Available",
+  price: "$1499"
   },
 
   {
@@ -132,7 +167,14 @@ export const books = [
     author: "Robert Kiyosaki",
     category: "Finance",
     status: "Borrowed",
-    published: "1997"
+    published: "1997",
+     brand: "Dell",
+  model: "XPS 15",
+  processor: "Intel Core i7",
+  ram: "16GB",
+  storage: "512GB SSD",
+  status: "Available",
+  price: "$1499"
   },
 
   {
@@ -141,7 +183,14 @@ export const books = [
     author: "Napoleon Hill",
     category: "Motivation",
     status: "Available",
-    published: "1937"
+    published: "1937",
+     brand: "Dell",
+  model: "XPS 15",
+  processor: "Intel Core i7",
+  ram: "16GB",
+  storage: "512GB SSD",
+  status: "Available",
+  price: "$1499"
   },
 
   {
@@ -150,7 +199,14 @@ export const books = [
     author: "Douglas Crockford",
     category: "Programming",
     status: "Reserved",
-    published: "2008"
+    published: "2008",
+     brand: "Dell",
+  model: "XPS 15",
+  processor: "Intel Core i7",
+  ram: "16GB",
+  storage: "512GB SSD",
+  status: "Available",
+  price: "$1499"
   },
 
   {
@@ -159,7 +215,14 @@ export const books = [
     author: "Morgan Housel",
     category: "Finance",
     status: "Available",
-    published: "2020"
+    published: "2020",
+     brand: "Dell",
+  model: "XPS 15",
+  processor: "Intel Core i7",
+  ram: "16GB",
+  storage: "512GB SSD",
+  status: "Available",
+  price: "$1499"
   },
 
   {
@@ -168,6 +231,13 @@ export const books = [
     author: "Erich Gamma",
     category: "Software Engineering",
     status: "Borrowed",
-    published: "1994"
+    published: "1994",
+     brand: "Dell",
+  model: "XPS 15",
+  processor: "Intel Core i7",
+  ram: "16GB",
+  storage: "512GB SSD",
+  status: "Available",
+  price: "$1499"
   }
 ];
