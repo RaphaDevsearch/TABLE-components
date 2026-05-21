@@ -1,0 +1,81 @@
+[
+  {
+    "id": 1,
+    "project": "Student Portal",
+    "owner": "Raphael",
+    "status": "Completed",
+    "date": "10 Jan 2026"
+  },
+
+  {
+    "id": 2,
+    "project": "Hostel Management",
+    "owner": "John",
+    "status": "Pending",
+    "date": "15 Feb 2026"
+  },
+
+  {
+    "id": 3,
+    "project": "E-Commerce Dashboard",
+    "owner": "Alice",
+    "status": "In Progress",
+    "date": "03 Mar 2026"
+  },
+
+  {
+    "id": 4,
+    "project": "Finance Tracker",
+    "owner": "Michael",
+    "status": "Completed",
+    "date": "22 Aug 2026"
+  },
+
+  {
+    "id": 5,
+    "project": "Library System",
+    "owner": "Sophia",
+    "status": "Pending",
+    "date": "12 Apr 2026"
+  },
+
+  {
+    "id": 6,
+    "project": "Online Voting App",
+    "owner": "Daniel",
+    "status": "In Progress",
+    "date": "28 May 2026"
+  },
+
+  {
+    "id": 7,
+    "project": "Restaurant Website",
+    "owner": "Emma",
+    "status": "Completed",
+    "date": "09 Jun 2026"
+  },
+
+  {
+    "id": 8,
+    "project": "Church Event Manager",
+    "owner": "David",
+    "status": "In Progress",
+    "date": "17 Jul 2026"
+  },
+
+  {
+    "id": 9,
+    "project": "Medical Appointment App",
+    "owner": "Olivia",
+    "status": "Pending",
+    "date": "01 Sep 2026"
+  },
+
+  {
+    "id": 10,
+    "project": "Task Management Tool",
+    "owner": "Noah",
+    "status": "Completed",
+    "date": "30 Oct 2026"
+  }
+]
