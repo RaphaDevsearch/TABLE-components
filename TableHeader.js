@@ -1,30 +1,26 @@
 import Pagination from "./Pagination.js";
 class TableHeader {
-  #label_left = "SET LABEL";
-  #pagination_right = "";
+  // label of the header
+  label = "";
+  // pagination of the header
+  pagination = null;
 
-  constructor(label_left, pagination_right) {
-    this.label_left = label_left;
-    this.pagination_right = new Pagination().html();
+  constructor(label = "", pagination = null) {
+    this.label = label;
+    this.pagination = pagination;
   }
 
-  html(){
+   html(){
     const header = document.createElement("div");
-    header.classList.add("table-head");
+    const labelOfHeader = document.createElement("h1");
+    labelOfHeader.textContent = this.label;
+    header.appendChild(labelOfHeader);
 
-    const label = document.createElement("h2");
-    label.textContent = this.label_left;
-
-    const pagination = document.createElement("div");
-    pagination.classList.add("pagination");
-    // pagination.textContent = this.pagination_right;
-    pagination.appendChild(this.pagination_right);
-
-    header.appendChild(label);
-    header.appendChild(pagination);
-
+    // paginatino :
+    this.pagination = new Pagination()
+    header.appendChild(this.pagination.html())
     return header;
-  }
+   }
   
 }
 export default TableHeader;
